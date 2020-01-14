@@ -2,7 +2,9 @@
 
 * [Welcome \(FAQ\)](README.md)
 
-## Introduction
+## References <a id="refs"></a>
 
-* [Ethereal](introduction/ethereal.md)
+* [Tommy](refs/tommy.md)
+* [Revenact](refs/ethereal.md)
+* [SummerHoax](summerhoax.md)
 
