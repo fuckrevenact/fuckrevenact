@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome \(FAQ\)](README.md)
+* [Disclaimer](disclaimer.md)
 
 ## References <a id="refs"></a>
 
