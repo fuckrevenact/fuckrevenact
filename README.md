@@ -22,7 +22,7 @@ To contact a collaborator of this document, please send an email to [admin@fuckr
 
 ## What do you aim to achieve from this?
 
-Awareness and knowledge of the illegal, dangerous, and often endangering actions of Ethereal
+Awareness and knowledge of the illegal, dangerous, and often endangering actions and childish, toxic and ignorant behaviour of Ethereal
 
 ## 
 
