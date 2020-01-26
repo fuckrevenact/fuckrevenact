@@ -18,7 +18,8 @@ This document simply exists to notify people of the actions of individuals, and 
 
 ## If you see something you're in, and you don't want it here...
 
-If it's just you being petty, deal with it. If it's got a serious excuse, email [admin@fuckrevenact.com](mailto:admin@fuckrevenact.com)
+If it's just you being petty, deal with it. If it's got a serious excuse, email [admin@fuckrevenact.com](mailto:admin@fuckrevenact.com) 
+Otherwise, just try to ignore it.
 
 
 
