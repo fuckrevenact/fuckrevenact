@@ -6,7 +6,7 @@ description: Read this FAQ before you go through this. It'll provide some backgr
 
 ## Why does this exist?
 
-Ethereal is a twat.
+Ethereal is a colossal twat.
 
 ## Who's behind this?
 
